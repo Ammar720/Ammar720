@@ -2,16 +2,6 @@
 <h3 align="center">Flutter Developer</h3>
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ammar720&theme=radical&hide_border=false" height="150" alt="GitHub streak stats" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ammar720&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
----
-
 <p align="left"><strong>About Me</strong><br>
 👨‍💻 I'm Ammar Ahmed, a Flutter developer with a background in Communication and Electronics Engineering. I focus on building clean, scalable mobile apps using Clean Architecture.<br><br>
 
